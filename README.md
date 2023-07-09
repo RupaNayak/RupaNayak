@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Android Development
 - 🌱 I’m currently learning Flatter and React Native
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me sahasuraj420@gmail.com
+- 📫 How to reach me rupa.nayak98@gmail.com
 
 <!---
 RupaNayak/RupaNayak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
